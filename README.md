@@ -40,12 +40,13 @@ An end-to-end analytics pipeline built on public NHL data: automated ingestion, 
 ## Roadmap
 
 - [ ] Phase 1: Ingest NHL data (teams, games, standings, team and skater stats)
-- [ ] Phase 2: Clean and model the data in PostgreSQL
-- [ ] Phase 3: Team Performance dashboard
-- [ ] Phase 4: ML model and Predictions dashboard
-- [ ] Phase 5: Automate with Lambda and GitHub Actions
-- [ ] Phase 6: Player Performance and General NHL dashboards
-- [ ] Phase 7: Migrate warehouse layer to Snowflake
+- [ ] Phase 2: Exploratory Data Analysis (EDA)
+- [ ] Phase 3: Clean and model the data in PostgreSQL
+- [ ] Phase 4: Team Performance dashboard
+- [ ] Phase 5: ML model and Predictions dashboard
+- [ ] Phase 6: Automate with Lambda and GitHub Actions
+- [ ] Phase 7: Player Performance and General NHL dashboards
+- [ ] Phase 8: Migrate warehouse layer to Snowflake
 
 ## Initial Repository structure
 
